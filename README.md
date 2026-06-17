@@ -10,13 +10,15 @@
 
 ## 🔗 Information
 
-- ⚡ I'm currently working on **Projects**
-- 🎓 I'm currently learning `React` | `Node.js` | `MongoDB`
+- ⚡ I'm currently working on **Full Stack Web Projects**
+- 🎓 I'm currently learning `React` | `Node.js` | `MongoDB` | `Express.js`
+- 🏫 BCA Student at **Kristu Jayanti College, Bangalore** | CGPA: **9.44**
 - 🌐 I'm a **Full Stack Web Developer**
+- 🏆 1st Place @ Inbloom Christ University | 1st Place @ Revelation SJU
 - ✅ I'm looking to collaborate on **Open Source Projects**
-- 👤 Pronouns: **He/Him**
+- 📍 Bangalore, Karnataka
 
-> I'm a developer who loves building full stack web applications from scratch. I enjoy planning, designing, and solving problems through code — one project at a time.
+> Motivated Software Developer and BCA student with hands-on experience building responsive web applications. Passionate about the MERN stack, clean UI design, and solving real-world problems through code.
 
 ---
 
@@ -26,6 +28,14 @@
   <a href="mailto:vikash3378singh@gmail.com">
     <img src="https://img.shields.io/badge/vikash3378singh@gmail.com-GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vikash-kumar-singh-a960a7314" target="_blank">
+    <img src="https://img.shields.io/badge/Vikash_Kumar_Singh-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VikashSingh0507/VikashSingh0507/raw/main/Vikash_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -33,7 +43,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,docker,postgresql,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,figma,vscode,canva" />
 </p>
 
 ---
@@ -47,6 +57,14 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
+
+---
+
+## 🏅 Certifications
+
+- 📜 Network Fundamentals – **NASSCOM**
+- 📜 Salesforce Administration Explorer – **NASSCOM**
+- 📜 Software Testing and Automation – **Infosys Springboard**
 
 ---
 
